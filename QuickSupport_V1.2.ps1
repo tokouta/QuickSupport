@@ -1,4 +1,17 @@
 ﻿
+<###############################################################################################
+#
+# Quick Support GUI
+#
+#
+# Dieses Script stellt ein Quick Support Tool dar.
+#
+#
+# 19.10.2020   Shipinyuan Su : 1.2
+#
+################################################################################################> 
+ 
+ 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 

@@ -197,9 +197,6 @@ $LFButton.Text = "Laufwerke aktualisieren"
 $LFButton.Add_Click(
 {
 
-                
-              
-    cd \\vmdienst1\DCSWRepository\RI
     Start-Process "\\.\Laufwerke.bat"            
 
 

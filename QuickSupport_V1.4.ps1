@@ -107,7 +107,7 @@ $form.Controls.Add($CancelButton)
 
 #----------------------------------------------------------------------#
 
-#TFBERN INFO (Rechte Seite)
+#INFO (Rechte Seite)
 $label = New-Object System.Windows.Forms.Label
 $label.Location = New-Object System.Drawing.Point(10,20)
 $label.Size = New-Object System.Drawing.Size(270,20)
